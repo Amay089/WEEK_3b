@@ -1,0 +1,1 @@
+streamlit run ticket_chain_events_app.py
